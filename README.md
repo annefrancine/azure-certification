@@ -21,3 +21,4 @@
 - https://docs.microsoft.com/en-us/learn/certifications/roles/devops-engineer
 - https://myignite.techcommunity.microsoft.com/sessions/80068?source=sessions
 - https://partner.microsoft.com/en-us/training/assets/collection/azure-devops-engineer-expert-certification-exam-az-400#/
+- https://www.youtube.com/watch?v=ECiDluCSut0&list=PLkzPm5uaOj999IgfpBN6gmgfd0zqfezfw

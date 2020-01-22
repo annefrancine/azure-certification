@@ -11,6 +11,7 @@
  - https://www.whizlabs.com/learn/course/microsoft-azure-az-900/
  - https://partner.microsoft.com/en-us/training/assets/collection/microsoft-azure-fundamentals-certification-exam-az-900#/
  - https://myignite.techcommunity.microsoft.com/sessions/78630?source=sessions
+ - https://www.youtube.com/watch?v=eYpNnEHUFVI
  
 
 ## AZ-400: Microsoft Azure DevOps Solutions

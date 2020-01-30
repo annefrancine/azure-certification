@@ -1,5 +1,7 @@
 # Certificações
 
+https://build5nines.com/top-free-microsoft-certification-hands-on-labs/?_lrsc=c7fdb384-9c9d-4f42-b6b4-74154455d3ce
+
 ## AZ-900: Fundamentos do Microsoft Azure
  - https://www.microsoft.com/pt-br/learning/exam-az-900.aspx
  - https://docs.microsoft.com/pt-br/learn/paths/azure-fundamentals/

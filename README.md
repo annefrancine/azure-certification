@@ -14,6 +14,7 @@ https://build5nines.com/top-free-microsoft-certification-hands-on-labs/?_lrsc=c7
  - https://partner.microsoft.com/en-us/training/assets/collection/microsoft-azure-fundamentals-certification-exam-az-900#/
  - https://myignite.techcommunity.microsoft.com/sessions/78630?source=sessions
  - https://www.youtube.com/watch?v=eYpNnEHUFVI
+ - https://www.youtube.com/watch?v=kl0any3WFb0
  
 
 ## AZ-400: Microsoft Azure DevOps Solutions

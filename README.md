@@ -14,6 +14,7 @@ https://build5nines.com/top-free-microsoft-certification-hands-on-labs/?_lrsc=c7
  - https://partner.microsoft.com/en-us/training/assets/collection/microsoft-azure-fundamentals-certification-exam-az-900#/
  - https://myignite.techcommunity.microsoft.com/sessions/78630?source=sessions
  - https://www.youtube.com/watch?v=eYpNnEHUFVI
+ - https://www.taygan.co/blog/2019/02/07/az-900-azure-fundamentals-exam-preparation
  - https://www.youtube.com/watch?v=kl0any3WFb0
  
 

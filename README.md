@@ -1,5 +1,7 @@
 # Certificações
 
+https://build5nines.com/top-free-microsoft-certification-hands-on-labs/?_lrsc=c7fdb384-9c9d-4f42-b6b4-74154455d3ce
+
 ## AZ-900: Fundamentos do Microsoft Azure
  - https://www.microsoft.com/pt-br/learning/exam-az-900.aspx
  - https://docs.microsoft.com/pt-br/learn/paths/azure-fundamentals/
@@ -13,6 +15,7 @@
  - https://myignite.techcommunity.microsoft.com/sessions/78630?source=sessions
  - https://www.youtube.com/watch?v=eYpNnEHUFVI
  - https://www.taygan.co/blog/2019/02/07/az-900-azure-fundamentals-exam-preparation
+ - https://www.youtube.com/watch?v=kl0any3WFb0
  
 
 ## AZ-400: Microsoft Azure DevOps Solutions
